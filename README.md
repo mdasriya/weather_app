@@ -8,4 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # To Run App
+ npm i 
+ npm run dev
+
+ 
+# To Run App
+  Screenshot image 
+ ![Screenshot (44)](https://github.com/mdasriya/weather_app/assets/110367868/7dbf3e00-ca46-4ff2-8d49-ed96bd7d1329)
+![Screenshot (43)](https://github.com/mdasriya/weather_app/assets/110367868/46a87157-533b-4dba-bbbe-cd8b9de118cc)
 
