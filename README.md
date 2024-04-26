@@ -14,6 +14,9 @@ Currently, two official plugins are available:
  
 # To Run App
   Screenshot image 
+  - after Search 
  ![Screenshot (44)](https://github.com/mdasriya/weather_app/assets/110367868/7dbf3e00-ca46-4ff2-8d49-ed96bd7d1329)
+
+ - default Search 
 ![Screenshot (43)](https://github.com/mdasriya/weather_app/assets/110367868/46a87157-533b-4dba-bbbe-cd8b9de118cc)
 
